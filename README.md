@@ -157,5 +157,5 @@ guillaume@ubuntu:~/AirBnB$ ./console.py
 ```
 
 # Authors
-- Osiaro Famous Oghenevwo
-- Akporhuarho Vincent akpofure
+- Uyi Obazee
+- Peace Nwankwo
